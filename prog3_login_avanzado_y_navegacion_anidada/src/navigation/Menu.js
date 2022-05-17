@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { FontAwesome, Foundation } from '@expo/vector-icons'
+import { Foundation } from '@expo/vector-icons'
 import Home from '../screens/Home';
 import Login from '../screens/Login';
 import Register from '../screens/Register';
